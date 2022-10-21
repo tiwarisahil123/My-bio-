@@ -1,0 +1,53 @@
+
+body{
+background-color: white ;
+ }
+h1{
+font-size: 45px;
+color: blue ;}
+h2{
+font-size: 40px;
+color: red ;}
+table{
+border: 1px solid;
+color: maroon ;
+cellpadding: 2px ;}
+p{
+color: green ;
+}
+h3{
+font-size: 50px ;
+color: white ;
+}
+h4{
+font-size: 30px ;
+color: violet ;
+}
+
+
+
+
+
+
+
+
+
+
+
+#<table>
+<tr>
+<th>No.</th>
+<th>Name</th>
+<th>Fees</th>
+</tr>
+<tr>
+<th>01</th>
+<td>Sahil Tiwari</td>
+<td>2000</td>
+</tr>
+<tr>
+<th>02</th>
+<td>Aseem</td>
+<td>3000</td>
+</tr>
+</table>#
